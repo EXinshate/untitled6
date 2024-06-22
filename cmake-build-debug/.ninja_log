@@ -1,0 +1,11 @@
+# ninja log v6
+2	79	7407710790984482	CMakeFiles/untitled6.dir/main.c.obj	96ca170d7297ab6e
+2	97	7407710922720758	untitled6.exe	ea5f8a074cdf8695
+2	78	7407697123987089	CMakeFiles/untitled6.dir/BinarySearch.c.obj	27fb852c5d56ae08
+1	263	7407711186462241	build.ninja	f96d7749d669f97
+2	82	7407715515479830	CMakeFiles/untitled6.dir/main.c.obj	96ca170d7297ab6e
+83	181	7407715516286642	untitled6.exe	ea5f8a074cdf8695
+2	87	7407716797200196	CMakeFiles/untitled6.dir/main.c.obj	96ca170d7297ab6e
+87	188	7407716798051255	untitled6.exe	ea5f8a074cdf8695
+2	83	7407716999778142	CMakeFiles/untitled6.dir/main.c.obj	96ca170d7297ab6e
+84	185	7407717000595359	untitled6.exe	ea5f8a074cdf8695
